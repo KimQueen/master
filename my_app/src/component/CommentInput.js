@@ -18,7 +18,7 @@ class CommentInput extends Component {
                         </div>
                     </div>
                     <div className = 'comment-field-button'>
-                        <button>发布</button>
+                        <button>发11布</button>
                     </div>
                 </div>
             </div>
