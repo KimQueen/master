@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+//引入Echarts主模块
+// import echarts from 'echarts/lib/echarts';
+//引入柱状图
+// import 'echarts/lib/chart/bar';
+// import 'echarts/lib/component/tooltip'
+// import 'echarts/lib/component/title'
 import './App.css';
+
 class App extends Component {
   render() {
     return (
@@ -10,14 +17,6 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
         </header>
       </div>
     );
