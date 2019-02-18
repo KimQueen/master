@@ -1,8 +1,5 @@
 /**
  * 添加设置表头从而修改表格的样式的表格，组件库：_4_3 表头设置
- *
- * @ author kim.jin@eisoo.com
- * @ date 2019/02/11
  * 
  *  dataSource用来传入表格中想要显示的数据
  *  headerSetting用来传入初始表头的选项内容 eg：[{ title: '序号', dataIndex: 'order', key: 'num' }]
